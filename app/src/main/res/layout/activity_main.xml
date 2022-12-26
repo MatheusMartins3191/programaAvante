@@ -15,7 +15,7 @@
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
             app:layout_constraintEnd_toStartOf="@+id/btn57" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"
     />
     <Button
             android:text="45"
@@ -25,7 +25,7 @@
             android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="42"
             android:layout_width="60dp"
@@ -35,7 +35,7 @@
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
             app:layout_constraintEnd_toStartOf="@+id/btn43" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="46"
             android:layout_width="60dp"
@@ -45,7 +45,7 @@
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
             app:layout_constraintEnd_toStartOf="@+id/btn47" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="51"
             android:layout_width="60dp"
@@ -55,7 +55,7 @@
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
             app:layout_constraintEnd_toStartOf="@+id/btn52" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="54"
             android:layout_width="60dp"
@@ -65,7 +65,7 @@
             android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="43"
             android:layout_width="60dp"
@@ -75,7 +75,7 @@
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="36"
             android:layout_width="60dp"
@@ -85,7 +85,7 @@
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
             app:layout_constraintEnd_toStartOf="@+id/btn37" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="39"
             android:layout_width="60dp"
@@ -94,7 +94,7 @@
             android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="53"
             android:layout_width="60dp"
@@ -104,7 +104,7 @@
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="57"
             android:layout_width="60dp"
@@ -114,7 +114,7 @@
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
             app:layout_constraintEnd_toStartOf="@+id/btn58" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="52"
             android:layout_width="60dp"
@@ -124,7 +124,7 @@
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
             app:layout_constraintEnd_toStartOf="@+id/btn53" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="50"
             android:layout_width="60dp"
@@ -133,7 +133,7 @@
             android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="37"
             android:layout_width="60dp"
@@ -143,7 +143,7 @@
             android:textColor="#FFFFFF" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
             app:layout_constraintEnd_toStartOf="@+id/btn38" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="35"
             android:layout_width="60dp"
@@ -154,7 +154,7 @@
             app:layout_constraintStart_toEndOf="@+id/btn34" android:layout_marginTop="5dp"
             android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             tools:background="?attr/selectableItemBackground" android:textSize="20sp"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="30"
             android:layout_width="60dp"
@@ -165,7 +165,7 @@
             android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             app:layout_constraintTop_toBottomOf="@+id/btn25" android:layout_marginTop="5dp"
             tools:background="?attr/selectableItemBackground" android:textSize="20sp"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="29"
             android:layout_width="60dp"
@@ -176,7 +176,7 @@
             app:layout_constraintStart_toEndOf="@+id/btn28" android:layout_marginTop="5dp"
             android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             tools:background="?attr/selectableItemBackground" android:textSize="20sp"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="28"
             android:layout_width="60dp"
@@ -187,7 +187,7 @@
             android:layout_marginTop="5dp"
             tools:background="?attr/selectableItemBackground" android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="27"
             android:layout_width="60dp"
@@ -198,7 +198,7 @@
             android:layout_marginTop="5dp"
             tools:background="?attr/selectableItemBackground" android:textSize="20sp"
             app:layout_constraintEnd_toStartOf="@+id/btn28" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="23"
             android:layout_width="60dp"
@@ -208,15 +208,15 @@
             app:layout_constraintTop_toBottomOf="@+id/btn18" android:layout_marginTop="5dp"
             tools:background="?attr/selectableItemBackground" android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="05"
             android:layout_width="60dp"
             android:layout_height="45dp" android:id="@+id/btn5"
-            android:textColor="#FBFBFB" app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="16dp"
+            android:textColor="#FBFBFB" app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="40dp"
             app:layout_constraintStart_toEndOf="@+id/btn4" android:layout_marginLeft="5dp"
             android:layout_marginStart="5dp" android:textSize="20sp"
-            android:background="?attr/selectableItemBackgroundBorderless" android:fontFamily="@font/gothic_a1_light"/>
+            android:background="?attr/selectableItemBackgroundBorderless" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="06"
             android:layout_width="60dp"
@@ -226,7 +226,7 @@
             android:layout_marginTop="5dp"
             android:textSize="20sp" android:background="?attr/selectableItemBackgroundBorderless"
             app:layout_constraintEnd_toStartOf="@+id/btn7" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="13"
             android:layout_width="60dp"
@@ -235,7 +235,7 @@
             android:layout_marginTop="5dp"
             android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless" app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent" android:fontFamily="@font/gothic_a1_light"/>
+            app:layout_constraintStart_toStartOf="parent" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="15"
             android:layout_width="60dp"
@@ -243,7 +243,7 @@
             android:textColor="#FBFBFB" app:layout_constraintStart_toEndOf="@+id/btn14"
             app:layout_constraintTop_toBottomOf="@+id/btn10" android:layout_marginTop="5dp"
             android:layout_marginLeft="4dp" android:layout_marginStart="4dp" android:textSize="20sp"
-            android:background="?attr/selectableItemBackgroundBorderless" android:fontFamily="@font/gothic_a1_light"/>
+            android:background="?attr/selectableItemBackgroundBorderless" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="18"
             android:layout_width="60dp"
@@ -251,7 +251,7 @@
             android:textColor="#FBFBFB" app:layout_constraintTop_toBottomOf="@+id/btn13"
             android:layout_marginTop="5dp" android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless" app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent" android:fontFamily="@font/gothic_a1_light"/>
+            app:layout_constraintStart_toStartOf="parent" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="11"
             android:layout_width="60dp"
@@ -259,7 +259,7 @@
             android:textColor="#FBFBFB"
             android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
-            android:fontFamily="@font/gothic_a1_light"
+            android:fontFamily="@font/gotham_xlight"
             app:layout_constraintTop_toBottomOf="@+id/btn6" app:layout_constraintEnd_toStartOf="@+id/btn12"
             android:layout_marginEnd="5dp" android:layout_marginRight="5dp" android:layout_marginTop="5dp"/>
     <Button
@@ -270,7 +270,7 @@
             android:layout_marginTop="5dp"
             android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless" app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent" android:fontFamily="@font/gothic_a1_light"/>
+            app:layout_constraintStart_toStartOf="parent" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="10"
             android:layout_width="60dp"
@@ -278,7 +278,7 @@
             android:textColor="#FBFBFB" app:layout_constraintTop_toBottomOf="@+id/btn5"
             app:layout_constraintStart_toEndOf="@+id/btn9" android:layout_marginTop="5dp"
             android:layout_marginLeft="5dp" android:layout_marginStart="5dp" android:textSize="20sp"
-            android:background="?attr/selectableItemBackgroundBorderless" android:fontFamily="@font/gothic_a1_light"/>
+            android:background="?attr/selectableItemBackgroundBorderless" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="17"
             android:layout_width="60dp"
@@ -288,7 +288,7 @@
             android:textSize="20sp"
             android:background="?attr/selectableItemBackgroundBorderless"
             app:layout_constraintEnd_toStartOf="@+id/btn18"
-            android:layout_marginRight="5dp" android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginRight="5dp" android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="20"
             android:layout_width="60dp"
@@ -296,7 +296,7 @@
             android:textColor="#FBFBFB" app:layout_constraintTop_toBottomOf="@+id/btn15" android:layout_marginTop="5dp"
             app:layout_constraintStart_toEndOf="@+id/btn19" android:layout_marginLeft="5dp"
             android:layout_marginStart="5dp" android:textSize="20sp"
-            android:background="?attr/selectableItemBackgroundBorderless" android:fontFamily="@font/gothic_a1_light"/>
+            android:background="?attr/selectableItemBackgroundBorderless" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="09"
             android:layout_width="60dp"
@@ -304,13 +304,13 @@
             android:textColor="#FBFBFB" app:layout_constraintTop_toBottomOf="@+id/btn4"
             app:layout_constraintStart_toEndOf="@+id/btn8" android:layout_marginTop="5dp"
             android:layout_marginLeft="5dp" android:layout_marginStart="5dp" android:textSize="20sp"
-            android:background="?attr/selectableItemBackgroundBorderless" android:fontFamily="@font/gothic_a1_light"/>
+            android:background="?attr/selectableItemBackgroundBorderless" android:fontFamily="@font/gotham_xlight"/>
     <ImageView
             android:layout_width="0dp"
-            android:layout_height="120dp" android:id="@+id/imageView4"
+            android:layout_height="0dp" android:id="@+id/imageView4"
             app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:srcCompat="@drawable/programa_avante"/>
+            app:srcCompat="@drawable/programa_avante" app:layout_constraintTop_toBottomOf="@+id/btn58"/>
     <Button
             android:text="01"
             android:layout_width="60dp"
@@ -318,30 +318,30 @@
             android:textColor="#FFFFFF"
             tools:background="?attr/selectableItemBackground"
             app:layout_constraintTop_toTopOf="parent"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="40dp"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
             app:layout_constraintEnd_toStartOf="@+id/btn2" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="02"
             android:layout_width="60dp"
             android:layout_height="45dp" android:id="@+id/btn2"
             app:layout_constraintTop_toTopOf="parent"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="40dp"
             tools:background="?attr/selectableItemBackground" android:textColor="#FFFFFF"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
             app:layout_constraintEnd_toStartOf="@+id/btn3" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"
     />
     <Button
             android:text="03"
             android:layout_width="60dp"
             android:layout_height="45dp" android:id="@+id/btn3"
             tools:background="?attr/selectableItemBackground"
-            android:textColor="#FBFBFB" app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="16dp"
+            android:textColor="#FBFBFB" app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="40dp"
             android:background="?attr/selectableItemBackgroundBorderless"
             android:textSize="20sp" app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintEnd_toEndOf="parent" android:fontFamily="@font/gothic_a1_light"/>
+            app:layout_constraintEnd_toEndOf="parent" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="07"
             android:layout_width="60dp"
@@ -351,7 +351,7 @@
             android:layout_marginTop="5dp"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
             app:layout_constraintEnd_toStartOf="@+id/btn8" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="12"
             android:layout_width="60dp"
@@ -361,7 +361,7 @@
             android:layout_marginTop="5dp"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
             app:layout_constraintEnd_toStartOf="@+id/btn13" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="14"
             android:layout_width="60dp"
@@ -370,7 +370,7 @@
             android:textColor="#FBFBFB" app:layout_constraintTop_toBottomOf="@+id/btn9" android:layout_marginTop="5dp"
             app:layout_constraintStart_toEndOf="@+id/btn13" android:layout_marginLeft="5dp"
             android:layout_marginStart="5dp" android:background="?attr/selectableItemBackgroundBorderless"
-            android:textSize="20sp" android:fontFamily="@font/gothic_a1_light"/>
+            android:textSize="20sp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="16"
             android:layout_width="60dp"
@@ -380,7 +380,7 @@
             android:layout_marginTop="5dp"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
             app:layout_constraintEnd_toStartOf="@+id/btn17" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="19"
             android:layout_width="60dp"
@@ -390,16 +390,16 @@
             app:layout_constraintStart_toEndOf="@+id/btn18" android:layout_marginLeft="5dp"
             android:layout_marginStart="5dp" android:layout_marginTop="5dp"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="04"
             android:layout_width="60dp"
             android:layout_height="45dp" android:id="@+id/btn4"
             tools:background="?attr/selectableItemBackground"
-            android:textColor="#FBFBFB" app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="16dp"
+            android:textColor="#FBFBFB" app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="40dp"
             app:layout_constraintStart_toEndOf="@+id/btn3" android:layout_marginLeft="5dp"
             android:layout_marginStart="5dp" android:background="?attr/selectableItemBackgroundBorderless"
-            android:textSize="20sp" android:fontFamily="@font/gothic_a1_light"/>
+            android:textSize="20sp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="21"
             android:layout_width="60dp"
@@ -408,7 +408,7 @@
             android:background="?attr/selectableItemBackgroundBorderless"
             app:layout_constraintTop_toBottomOf="@+id/btn16"
             android:layout_marginTop="5dp" android:textSize="20sp" app:layout_constraintEnd_toStartOf="@+id/btn22"
-            android:layout_marginRight="5dp" android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginRight="5dp" android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="22"
             android:layout_width="60dp"
@@ -419,7 +419,7 @@
             android:layout_marginTop="5dp"
             android:textSize="20sp"
             app:layout_constraintEnd_toStartOf="@+id/btn23" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="24"
             android:layout_width="60dp"
@@ -429,7 +429,7 @@
             app:layout_constraintTop_toBottomOf="@+id/btn19"
             app:layout_constraintStart_toEndOf="@+id/btn23" android:layout_marginTop="5dp"
             android:layout_marginLeft="5dp" android:layout_marginStart="5dp" android:textSize="20sp"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="@string/btn25"
             android:layout_width="60dp"
@@ -439,7 +439,7 @@
             app:layout_constraintTop_toBottomOf="@+id/btn20"
             app:layout_constraintStart_toEndOf="@+id/btn24" android:layout_marginTop="5dp"
             android:layout_marginLeft="5dp" android:layout_marginStart="5dp" android:textSize="20sp"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="26"
             android:layout_width="60dp"
@@ -449,7 +449,7 @@
             app:layout_constraintTop_toBottomOf="@+id/btn21"
             android:layout_marginTop="5dp"
             android:textSize="20sp" app:layout_constraintEnd_toStartOf="@+id/btn27" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="31"
             android:layout_width="60dp"
@@ -459,7 +459,7 @@
             app:layout_constraintTop_toBottomOf="@+id/btn26" android:layout_marginTop="5dp"
             android:textSize="20sp"
             app:layout_constraintEnd_toStartOf="@+id/btn32" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="32"
             android:layout_width="60dp"
@@ -469,7 +469,7 @@
             app:layout_constraintTop_toBottomOf="@+id/btn27" android:layout_marginTop="5dp"
             android:textSize="20sp"
             app:layout_constraintEnd_toStartOf="@+id/btn33" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="33"
             android:layout_width="60dp"
@@ -479,7 +479,7 @@
             app:layout_constraintTop_toBottomOf="@+id/btn28" android:layout_marginTop="5dp"
             android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="34"
             android:layout_width="60dp"
@@ -489,7 +489,7 @@
             app:layout_constraintStart_toEndOf="@+id/btn33"
             app:layout_constraintTop_toBottomOf="@+id/btn29" android:layout_marginTop="5dp"
             android:layout_marginLeft="5dp" android:layout_marginStart="5dp" android:textSize="20sp"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="55"
             android:layout_width="60dp"
@@ -499,7 +499,7 @@
             android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             tools:background="?attr/selectableItemBackground" android:textColor="#FFFFFF"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="44"
             android:layout_width="60dp"
@@ -508,7 +508,7 @@
             android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             tools:background="?attr/selectableItemBackground" android:textColor="#FFFFFF"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="40"
             android:layout_width="60dp"
@@ -517,7 +517,7 @@
             android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             tools:background="?attr/selectableItemBackground" android:textColor="#FFFFFF"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="38"
             android:layout_width="60dp"
@@ -527,7 +527,7 @@
             tools:background="?attr/selectableItemBackground" android:textColor="#FFFFFF"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="47"
             android:layout_width="60dp"
@@ -537,7 +537,7 @@
             tools:background="?attr/selectableItemBackground" android:textColor="#FFFFFF"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
             app:layout_constraintEnd_toStartOf="@+id/btn48" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="48"
             android:layout_width="60dp"
@@ -547,7 +547,7 @@
             tools:background="?attr/selectableItemBackground" android:textColor="#FFFFFF"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="49"
             android:layout_width="60dp"
@@ -556,7 +556,7 @@
             android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             tools:background="?attr/selectableItemBackground" android:textColor="#FFFFFF"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="41"
             android:layout_width="60dp"
@@ -566,7 +566,7 @@
             tools:background="?attr/selectableItemBackground" android:textColor="#FFFFFF"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
             app:layout_constraintEnd_toStartOf="@+id/btn42" android:layout_marginRight="5dp"
-            android:layout_marginEnd="5dp" android:fontFamily="@font/gothic_a1_light"/>
+            android:layout_marginEnd="5dp" android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="58"
             android:layout_width="60dp"
@@ -576,7 +576,7 @@
             tools:background="?attr/selectableItemBackground" android:textColor="#FFFFFF"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="59"
             android:layout_width="60dp"
@@ -585,7 +585,7 @@
             android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             tools:background="?attr/selectableItemBackground" android:textColor="#FFFFFF"
             android:background="?attr/selectableItemBackgroundBorderless" android:textSize="20sp"
-            android:fontFamily="@font/gothic_a1_light"/>
+            android:fontFamily="@font/gotham_xlight"/>
     <Button
             android:text="60"
             android:layout_width="60dp"
@@ -594,36 +594,36 @@
             android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             android:textColor="#FFFFFF"
             android:textSize="20sp"
-            android:fontFamily="@font/gothic_a1_light" android:background="?attr/selectableItemBackgroundBorderless"/>
+            android:fontFamily="@font/gotham_xlight" android:background="?attr/selectableItemBackgroundBorderless"/>
     <ImageView
             android:layout_width="60dp"
             android:layout_height="45dp" app:srcCompat="@drawable/check" android:id="@+id/img1"
             app:layout_constraintTop_toTopOf="parent" app:layout_constraintEnd_toStartOf="@+id/btn2"
-            android:layout_marginTop="16dp" android:layout_marginEnd="5dp" android:layout_marginRight="5dp"
+            android:layout_marginTop="40dp" android:layout_marginEnd="5dp" android:layout_marginRight="5dp"
             android:visibility="invisible"/>
     <ImageView
             android:layout_width="60dp"
             android:layout_height="45dp" app:srcCompat="@drawable/check" android:id="@+id/img2"
             app:layout_constraintTop_toTopOf="parent" app:layout_constraintEnd_toStartOf="@+id/btn3"
-            android:layout_marginTop="16dp" android:layout_marginRight="5dp" android:layout_marginEnd="5dp"
+            android:layout_marginTop="40dp" android:layout_marginRight="5dp" android:layout_marginEnd="5dp"
             android:visibility="invisible"/>
     <ImageView
             android:layout_width="60dp"
             android:layout_height="45dp" app:srcCompat="@drawable/check"
             android:id="@+id/img4" app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintStart_toEndOf="@+id/btn3" android:layout_marginTop="16dp"
+            app:layout_constraintStart_toEndOf="@+id/btn3" android:layout_marginTop="40dp"
             android:layout_marginLeft="5dp" android:layout_marginStart="5dp" android:visibility="invisible"/>
     <ImageView
             android:layout_width="60dp"
             android:layout_height="45dp" app:srcCompat="@drawable/check" android:id="@+id/img3"
             app:layout_constraintTop_toTopOf="parent" app:layout_constraintEnd_toEndOf="parent"
-            android:layout_marginTop="16dp" app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="40dp" app:layout_constraintStart_toStartOf="parent"
             android:visibility="invisible"/>
     <ImageView
             android:layout_width="60dp"
             android:layout_height="45dp" app:srcCompat="@drawable/check" android:id="@+id/img5"
             app:layout_constraintStart_toEndOf="@+id/btn4" app:layout_constraintTop_toTopOf="parent"
-            android:layout_marginTop="16dp" android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
+            android:layout_marginTop="40dp" android:layout_marginLeft="5dp" android:layout_marginStart="5dp"
             android:visibility="invisible"/>
     <ImageView
             android:layout_width="60dp"
