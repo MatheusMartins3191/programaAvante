@@ -1,4 +1,6 @@
 # Programa Avante #
 
-Tipo:
-*Type*
+#Tipo:#
+#*Type*#
+
+##
