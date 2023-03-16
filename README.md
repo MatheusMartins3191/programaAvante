@@ -1,6 +1,6 @@
 # Programa Avante #
 
-<p>Aplicação Android Nativaonde é possível marcar o número de dias relacionados à conclusão dos desafios propostos pelo programa que leva o mesmo nome do presente sistema.<p> 
+<p>Aplicação Android Nativa onde é possível marcar o número de dias relacionados à conclusão dos desafios propostos pelo programa que leva o mesmo nome do presente sistema.<p> 
   <p>Programa Avante: https://www.programaavante.com/<p>
   
 ### Principais Funcionalidades: ###
