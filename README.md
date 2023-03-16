@@ -1,6 +1,6 @@
 # Programa Avante #
 
-#Tipo:#
-#*Type*#
+<p>Tipo:<p>
+<p>*Type*<p>
 
 ##
