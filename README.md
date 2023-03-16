@@ -1,5 +1,4 @@
-<img src="https://www.programaavante.com/](https://github.com/MatheusMartins3191/programaAvante/blob/master/midias/recursos-graficos-play-console.png" 
-     alt="alt text" title="banner" width="150"/>
+[![ímage alt text] (https://www.programaavante.com/](https://github.com/MatheusMartins3191/programaAvante/blob/master/midias/recursos-graficos-play-console.png)
 
 # Programa Avante #
 
