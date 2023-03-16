@@ -1,4 +1,4 @@
-# ![Alt text](https://github.com/MatheusMartins3191/programaAvante/blob/master/midias/logo.jpeg "logo") Programa Avante #
+# ![Alt text]![](./master/midias/logo.jpeg "logo" =100x20) Programa Avante #
 
 <p>Descrição:<p>
   
