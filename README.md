@@ -1,3 +1,6 @@
+<img src="https://www.programaavante.com/](https://github.com/MatheusMartins3191/programaAvante/blob/master/midias/recursos-graficos-play-console.png" 
+     alt="alt text" title="banner" width="150"/>
+
 # Programa Avante #
 
 <p>Aplicação Android Nativa onde é possível marcar o número de dias relacionados à conclusão dos desafios propostos pelo programa que leva o mesmo nome do presente sistema.<p> 
