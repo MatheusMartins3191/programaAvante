@@ -1,6 +1,6 @@
 # Programa Avante #
 
-<img title="logo" alt="Alt text" src="/midias/logo.jpeg">
+![Alt text](https://github.com/MatheusMartins3191/programaAvante/blob/master/midias/logo.jpeg "logo")
 
 <p>Descrição:<p>
   
