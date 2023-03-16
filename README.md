@@ -1,6 +1,9 @@
 # Programa Avante #
 
-<p>Tipo:<p>
-<p>*Type*<p>
+<p>Descrição:<p>
+  
+<p>Principais Funcionalidades<p>  
 
-##
+<p>Tecnologias Utilizadas<p>
+
+ 
