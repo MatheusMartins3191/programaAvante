@@ -1,6 +1,4 @@
-# Programa Avante #
-
-![Alt text](https://github.com/MatheusMartins3191/programaAvante/blob/master/midias/logo.jpeg "logo")
+# ![Alt text](https://github.com/MatheusMartins3191/programaAvante/blob/master/midias/logo.jpeg "logo") Programa Avante #
 
 <p>Descrição:<p>
   
