@@ -4,8 +4,11 @@
 
 Programa Avante: https://www.programaavante.com/
   
-<p>Principais Funcionalidades:<p>
+## Principais Funcionalidades: ##
   <p>Na aplicação, o usuário pode clicar no número da quantidade de dias completados do programa possibilitando, assim, a percepção de uma evolução no decorrer das metas propostas<p>
+    <p>Ao se clicar no dia respectivo, aparecerá uma marcação sobre o número informando que o usuário completou o treinamento nos dias marcados.<p>
+
+  
     
 
   
