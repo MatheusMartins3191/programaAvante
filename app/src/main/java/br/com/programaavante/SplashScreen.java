@@ -1,14 +1,13 @@
-package com.example.programaavante;
+package br.com.programaavante;
 
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Build;
 import android.os.Handler;
-import androidx.annotation.ColorInt;
-import androidx.annotation.ColorRes;
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import br.com.programaavante.R;
 
 public class SplashScreen extends AppCompatActivity {
 

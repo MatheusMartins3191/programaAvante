@@ -5,7 +5,7 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".MainActivity" android:background="@drawable/background">
+        tools:context="br.com.programaavante.MainActivity" android:background="@drawable/background">
     <Button
             android:text="56"
             android:layout_width="60dp"
@@ -307,10 +307,11 @@
             android:background="?attr/selectableItemBackgroundBorderless" android:fontFamily="@font/gotham_xlight"/>
     <ImageView
             android:layout_width="0dp"
-            android:layout_height="0dp" android:id="@+id/imageView4"
-            app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_height="0dp" android:id="@+id/programaAvanteIMG"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:srcCompat="@drawable/programa_avante" app:layout_constraintTop_toBottomOf="@+id/btn58"/>
+            app:srcCompat="@drawable/programa_avante" app:layout_constraintTop_toBottomOf="@+id/btn58"
+            app:layout_constraintBottom_toBottomOf="parent"/>
     <Button
             android:text="01"
             android:layout_width="60dp"

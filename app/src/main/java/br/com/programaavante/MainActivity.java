@@ -1,7 +1,9 @@
-package com.example.programaavante;
+package br.com.programaavante;
 
+import android.app.UiModeManager;
 import android.content.Context;
 import android.content.SharedPreferences;
+import android.content.res.Configuration;
 import android.graphics.Color;
 import android.os.Build;
 import android.os.VibrationEffect;
@@ -9,6 +11,7 @@ import android.os.Vibrator;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
@@ -16,20 +19,27 @@ public class MainActivity extends AppCompatActivity {
     public static final String PREFS_NAME = "prefs";
 
     int numberOfButtons = 60;
-
     private final boolean[] online = new boolean[numberOfButtons];
-
     Button[] btn = new Button[numberOfButtons];
     ImageView[] img = new ImageView[numberOfButtons];
-
+    
+    @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        getWindow().setStatusBarColor(Color.BLACK);
-
         final Vibrator vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            getWindow().setStatusBarColor(Color.BLACK);
+        }
+
+        UiModeManager uiModeManager = (UiModeManager) getSystemService(Context.UI_MODE_SERVICE);
+        int mode = uiModeManager.getNightMode();
+        if (mode == UiModeManager.MODE_NIGHT_NO) {
+            getWindow().setNavigationBarColor(Color.BLACK);
+        }
 
         img[0] = findViewById(R.id.img1);
         img[1] = findViewById(R.id.img2);
@@ -161,7 +171,7 @@ public class MainActivity extends AppCompatActivity {
 
                     final VibrationEffect vibrationEffect;
 
-                    if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.Q) {
+                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
                         vibrationEffect = VibrationEffect.createOneShot(50, 50);
                         vibrator.cancel();
                         vibrator.vibrate(vibrationEffect);
