@@ -1,9 +1,10 @@
-# ![Alt text](https://github.com/MatheusMartins3191/programaAvante/blob/master/midias/logo.jpeg)) Programa Avante #
+# Programa Avante #
 
-<p>Descrição:<p>
+<p>Aplicação Android onde é possível marcar o número de dias relacionados à conclusão dos desafios proposto pelo programa que leva o mesmo nome do presente sistema.
+
+Programa Avante: [https://github.com/MatheusMartins3191/programaAvante/blob/master/midias/logo.jpeg](https://www.programaavante.com/)
   
-<p>Principais Funcionalidades<p>  
+<p>
 
-<p>Tecnologias Utilizadas<p>
-
+  
  
