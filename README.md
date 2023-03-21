@@ -26,8 +26,8 @@
 
 ### Tecnologias Utilizadas: ###
 
-<table>
-	<tr align="center">
+<table border-style="none">
+	<tr align="center" >
 		<th><img src="https://img.shields.io/badge/Linguagem-Java-red" title="languageTitle"/></th>
 		<th><img src="https://img.shields.io/badge/IDE-InteliJ-blue" title="ideTitle"/></th>
 		<th><img src="https://img.shields.io/badge/DataBank-SharedPreferences-green" title="dataBankShield"/>	</th>
