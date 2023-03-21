@@ -1,4 +1,4 @@
-<img src="[https://www.programaavante.com/](https://github.com/MatheusMartins3191/programaAvante/blob/master/midias/recursos-graficos-play-console.png]">
+![alt text](midias/recursos-graficos-play-console.png)
 
 # Programa Avante #
 
@@ -21,9 +21,11 @@
 
 ### Tecnologias Utilizadas: ###
 
-[Java Badge]
-  
-  ### Imagens ###
+
+### Imagens ###
+![alt text](midias/captura_clean.jpeg)
+![alt text](midias/captura_marked.jpeg)
+
   
       
       
