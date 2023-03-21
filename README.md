@@ -23,7 +23,7 @@
 
 
 ### Imagens ###
-![alt text](https://github.com/MatheusMartins3191/programaAvante/blob/a42f481117e1374306c1a6f1333e62316d8fe3ed/midias/captura_clean.jpeg) ![alt text](https://github.com/MatheusMartins3191/programaAvante/blob/a42f481117e1374306c1a6f1333e62316d8fe3ed/midias/captura_marked.jpeg)
+![example](/captura_clean.jpeg) ![example](/captura_marked.jpeg)
   
       
       
