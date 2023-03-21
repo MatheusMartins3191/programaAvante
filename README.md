@@ -21,7 +21,7 @@
 
 ### Tecnologias Utilizadas: ###
 
-<p>Java 1.8<p><p>Android API 30<p><p>InteliJ IDE<p>
+[Java Badge]
   
   ### Imagens ###
   
