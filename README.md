@@ -24,7 +24,6 @@
 
 ### Imagens ###
   
-| Image 1 | Image 2 |
 |---------|---------| 
 |![example](/captura_clean.jpeg) | ![example](/captura_marked.jpeg)|
   
