@@ -18,7 +18,7 @@
 ### Como executar: ###
 
 <p>Para executar a aplicação, o usuário deverá ter um smarthphone com sistema operacional Android. A aplicação poderá ser baixada diretamente na 
-	loja da PlayStore por meio da pesquisa por nome ou pelo link: [inserir link]<p>
+	loja da PlayStore por meio da pesquisa por nome ou pelo link: https://play.google.com/store/apps/details?id=br.com.programaavante<p>
    
 ### Características: ###
 
